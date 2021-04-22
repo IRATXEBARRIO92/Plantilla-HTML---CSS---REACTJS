@@ -1,0 +1,289 @@
+*  {
+    box-sizing: border-box;
+    }
+
+    #header {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .title {
+        flex-direction: column;
+        margin-left: 1rem;
+    }
+
+    .composition {
+        font-size: larger;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+    }
+
+    .subtitulo {
+        
+        font-size: 0.7rem;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+    .nav {
+        
+        color: white;
+        
+        
+    }
+
+    .list {
+        background-color: rgb(231, 64, 69);
+        border-radius: 1rem;
+        display: flex;
+        justify-content: end;
+        list-style-type: none;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-align: center;
+        
+    }
+
+    .link {
+        margin: 1rem 2rem 1rem 0.5rem;
+    }
+
+    .textSection1 {
+        text-align: center;
+        font-style: italic;
+        font-size: larger;
+        width: 65%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .imagencanyon {
+        display: flex;
+        justify-content: center;
+    }
+    
+   .services {
+       
+        text-transform: uppercase;
+        margin: 0;
+        padding: .3rem 1rem;
+        width: 10%;
+        margin: 1.2rem auto;
+        border-radius: 0.5rem;
+        text-align: center;
+        background-color: red;
+        color: white;   
+
+   }
+
+   .articles {
+    display: flex;
+    
+   }
+   .articulo1 {
+       width: 33%;
+   }
+
+   .articulo2 {
+    width: 33%;
+    }
+
+.articulo3 {
+    width: 33%;
+    }
+
+   .titulo1 {
+       display: flex;
+       align-items: center;
+       justify-content: start;
+       padding-left: 1rem;
+   }
+
+   .titulo2 {
+       display: flex;
+       align-items: center;
+       justify-content: start;
+       padding-left: 1rem;
+   }
+
+   .titulo3 {
+       display: flex;
+       align-items: center;
+       justify-content: start;
+       padding-left: 1rem;
+   }
+
+   .columna1 {
+    padding-left: 1em;
+    padding-right: 3em;
+   }
+
+   .columna2 {
+    padding-left: 1em;
+    padding-right: 3em;
+   }
+   
+   .columna3  {
+    padding-left: 1em;
+    padding-right: 3em;
+   }
+
+   .read {
+       color: red;
+       padding-left: 1em;
+       
+   }
+    
+   .facilis1 {
+       padding-left: 0.5rem;
+   }
+   .facilis2 {
+    padding-left: 0.5rem;
+    }
+    .facilis3 {
+    padding-left: 0.5rem;
+    }
+
+
+    .people {
+        display: flex;
+        font-size: small;
+        
+    }
+
+    .persona {
+        justify-content: center;
+        width: 100%;
+        height: auto;
+        display: block;
+        padding: 0.5rem;
+
+    }
+    .name {
+        padding-left: 0.75rem;
+    }
+    .description {
+        width: 70%;
+        text-align: start;
+        padding-left: 0.75rem;
+    }
+
+    .profile {
+        padding-left: 0.75rem;
+        color: red;
+    }
+
+    .services1 {
+         text-transform: uppercase;
+        margin: 0;
+        padding: .3rem 1rem;
+        width: 15%;
+        margin: 1.2rem auto;
+        border-radius: 0.5rem;
+        text-align: center;
+        background-color: red;
+        color: white;   
+    }
+
+    .imagenes {
+        display: flex;
+        justify-content: space-around;
+    }
+    .photo {
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .footer {
+        
+        background-color: rgb(222, 222, 222);
+        font-size: smaller;
+    }
+    .footer1 {
+        display: flex;
+    }
+    .imagenFooter1 {
+        display: flex;
+    }
+    .imagenFooter2 {
+        display: flex;
+    }
+    .tituloRojo {
+        text-align: start;
+        margin-left: 1rem;
+    }
+    .des {
+        text-align: start;
+        margin-left: 1rem;
+    }
+
+
+    .parte1 {
+        width: 33%;
+        
+    }
+    .parte2  {
+        width: 33%;   
+    }
+
+    .parte2 p {
+
+        margin-top: 0;
+        margin-bottom: 0;
+        text-align: center;
+    }
+
+    .latest {
+        margin: 1rem 2rem 2rem 2rem;
+        font-size: 15px;
+        text-align: center;
+        
+    }
+
+    .parte3 {
+        width: 33%;
+        text-align: justify;
+
+
+    }
+
+    .lorem {
+        margin-left: 3rem;
+        margin-right: 6rem;
+    }
+
+    .egipto {
+        border-style: solid;
+        margin-left: 0.5rem;
+        margin-top: 0.5rem;
+    }
+
+    .final {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .copyright {
+        text-align: start;
+    }
+
+    .template {
+        text-align: end;
+        
+    }
+
+    .parte2 span {
+        color: red;
+    }
+
+    .datos {
+        margin-top: 1 rem;
+    }
+
+    .street {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+
+    .telefono {
+        margin-bottom: 1rem;
+    }
